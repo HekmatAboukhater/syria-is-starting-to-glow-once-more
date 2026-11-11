@@ -1,0 +1,10 @@
+"city","year","mean_radiance","months_observed","calendar_months","pct_vs_2024"
+"Aleppo",2024,5.993062,5,"Jan Feb Mar Apr Aug",0
+"Aleppo",2025,8.233176,5,"Jan Feb Mar Apr Aug",37.3784552871304
+"Aleppo",2026,19.7974,5,"Jan Feb Mar Apr Aug",230.338648256934
+"Homs",2024,4.025032,5,"Jan Feb Mar Apr Aug",0
+"Homs",2025,5.12488,5,"Jan Feb Mar Apr Aug",27.325198905251
+"Homs",2026,11.0486,5,"Jan Feb Mar Apr Aug",174.497196544028
+"Damascus",2024,14.333812,5,"Jan Feb Mar Apr Aug",0
+"Damascus",2025,14.04023,5,"Jan Feb Mar Apr Aug",-2.04817811200537
+"Damascus",2026,28.593568,5,"Jan Feb Mar Apr Aug",99.4833474863491

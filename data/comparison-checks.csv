@@ -1,0 +1,13 @@
+"city","comparison","earlier_year","later_year","calendar_months","n_months","pct_change_in_means","months_brighter","min_monthly_pct","max_monthly_pct"
+"Aleppo","Main comparison",2024,2026,"Jan Feb Mar Apr Aug",5,230.338648256934,5,143.024505678552,342.052545394648
+"Aleppo","January through April",2024,2026,"Jan Feb Mar Apr",4,229.072935597007,4,143.024505678552,342.052545394648
+"Aleppo","August through October",2024,2025,"Aug Sep Oct",3,70.8131031107205,3,51.7975472731381,89.5642054771721
+"Aleppo","Change since 2025",2025,2026,"Jan Feb Mar Apr Aug",5,140.458846015195,5,119.973577565655,204.572681739815
+"Homs","Main comparison",2024,2026,"Jan Feb Mar Apr Aug",5,174.497196544028,5,87.0993777658658,232.207166227755
+"Homs","January through April",2024,2026,"Jan Feb Mar Apr",4,164.44476790381,4,87.0993777658658,232.207166227755
+"Homs","August through October",2024,2025,"Aug Sep Oct",3,62.6685411122826,3,54.4278326929226,72.4373461575522
+"Homs","Change since 2025",2025,2026,"Jan Feb Mar Apr Aug",5,115.587486926523,5,87.0737735709107,156.652711010173
+"Damascus","Main comparison",2024,2026,"Jan Feb Mar Apr Aug",5,99.4833474863491,5,58.2145494878778,131.722590463692
+"Damascus","January through April",2024,2026,"Jan Feb Mar Apr",4,96.4800916067781,4,58.2145494878778,131.722590463692
+"Damascus","August through October",2024,2025,"Aug Sep Oct",3,16.0627663235604,3,6.37457177536895,26.4952316890058
+"Damascus","Change since 2025",2025,2026,"Jan Feb Mar Apr Aug",5,103.654555516541,5,82.315900947384,147.079345781768
